@@ -1,8 +1,8 @@
-<h1>Conducting a security audit</h1>
+<h1>Analyzing network structure and security</h1>
 
 
 <h2>Description</h2>
-In this project, an internal security audit is conducted to check for threats risks, and vulnerabilities.
+In this project, an incident report is created after analyzing a network incident.
 <br />
 
 
@@ -15,10 +15,10 @@ In this project, an internal security audit is conducted to check for threats ri
 
 - <b>Windows 10</b> 
 
-<h2>Audit walk-through:</h2>
+<h2>Network incident report walk-through:</h2>
 
 <p align="center">
-Controls checklist: <br/>
+Analyzing network structure and security incident report: <br/>
 <img src="network.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
