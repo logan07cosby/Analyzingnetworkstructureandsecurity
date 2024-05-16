@@ -19,7 +19,7 @@ In this project, an incident report is created after analyzing a network inciden
 
 <p align="center">
 Analyzing network structure and security incident report: <br/>
-<img src="network.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="network.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
